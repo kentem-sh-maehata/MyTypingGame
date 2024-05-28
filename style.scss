@@ -1,5 +1,6 @@
 main{
   font-family: 'Courier New';
+  text-align: center;
   #word{
     letter-spacing: 8px;
     user-select: none;
@@ -11,5 +12,8 @@ main{
     left: 0;
     padding-top: 80px;
     margin: 0;
+  }
+  P{
+    margin-top: 150px;
   }
 }

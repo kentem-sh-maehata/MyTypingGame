@@ -1,5 +1,6 @@
 main {
   font-family: "Courier New";
+  text-align: center;
 }
 main #word {
   letter-spacing: 8px;
@@ -14,4 +15,7 @@ main #word {
   left: 0;
   padding-top: 80px;
   margin: 0;
+}
+main P {
+  margin-top: 150px;
 }/*# sourceMappingURL=style.css.map */
