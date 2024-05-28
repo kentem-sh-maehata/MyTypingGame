@@ -1,4 +1,11 @@
+main {
+  font-family: "Courier New";
+}
 main #word {
+  letter-spacing: 8px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
   text-align: center;
   position: fixed;
   top: 0;
@@ -6,4 +13,5 @@ main #word {
   bottom: 0;
   left: 0;
   padding-top: 80px;
+  margin: 0;
 }/*# sourceMappingURL=style.css.map */
